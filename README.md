@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a French junior developer and I'm currently doing The Common Core of 42 School 🎓.<br>I want to understand and learn how video games are made to create my own games in the future 🚀.<br><br>💻 I'm use a few language like C/C++  and I try to learn C# ! <br><br>
 
+⏳Work on Ft_Transcendence at 42
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
