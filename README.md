@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm a French junior developer and I'm currently doing The Common Core of 42 School 🎓.<br>I want to understand and learn how video games are made to create my own games in the future 🚀.<br><br>💻 I'm use a few language like C/C++  and I try to learn C# ! <br><br>
 
 # 💻 Tech Stack:
